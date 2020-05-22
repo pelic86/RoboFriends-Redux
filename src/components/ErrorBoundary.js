@@ -22,4 +22,4 @@
 
 // }
 
-// export default ErrorBoundry;
+// export default ErrorBoundry
